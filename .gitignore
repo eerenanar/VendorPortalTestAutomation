@@ -177,6 +177,7 @@ modules.xml
 
 
 ### Maven ###
+test-output/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
